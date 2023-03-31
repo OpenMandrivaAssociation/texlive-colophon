@@ -1,6 +1,6 @@
 Name:		texlive-colophon
 Version:	47913
-Release:	1
+Release:	2
 Summary:	Provides commands for producing a colophon
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colophon
