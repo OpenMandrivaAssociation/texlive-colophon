@@ -3,7 +3,7 @@ Version:	47913
 Release:	2
 Summary:	Provides commands for producing a colophon
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/colophon
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/colophon
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colophon.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/colophon.doc.r%{version}.tar.xz
